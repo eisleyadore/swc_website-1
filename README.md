@@ -1,2 +1,3 @@
-# swc_website
-testing website for SWC workshop at CSUC in August
+# Website for SWC
+
+This website was created on August 15, 2018 using RMarkdown. 
